@@ -1,2 +1,2 @@
 # build-scripts
-Scripts to build popular dependencies
+Scripts to build popular dependencies for Windows
